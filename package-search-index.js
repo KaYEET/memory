@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"memorypackage"},{"l":"memorypackage.model"},{"l":"memorypackage.view.helpscherm"},{"l":"memorypackage.view.spelscherm"},{"l":"memorypackage.view.startscherm"}]
